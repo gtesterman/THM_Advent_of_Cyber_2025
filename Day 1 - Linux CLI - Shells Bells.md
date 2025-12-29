@@ -23,3 +23,5 @@ Day 1 explores the Linux Command-line Interface (CLI) from a beginner-level stan
 
 - Ubuntu virtual machine
 - Linux command-line terminal
+<br/>
+<img width="1437" height="1566" alt="image" src="https://github.com/user-attachments/assets/0874fb04-c162-4324-9606-5d4749001c88" />
