@@ -15,3 +15,4 @@ In Day 2, participants learn about social engineering and the different types of
 
 <br/>
 <br/>
+<img width="2879" height="1377" alt="Screenshot 2025-12-02 174418" src="https://github.com/user-attachments/assets/3bde5df3-8e0b-4709-9a34-abd214088a15" />
