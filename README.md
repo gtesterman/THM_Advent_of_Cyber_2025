@@ -1,5 +1,5 @@
 # THM Advent of Cyber 2025
-This December I am participating in TryHackMe's Advent of Cyber 2025 event. This repo serves as my overview of the cybersecurity tools and techniques learned in the event. This <b> DOES NOT </b> reveal any of the story or answers to room questions. Rather, it outlines the various cybersecurity concepts learned through the rooms.
+In December 2025, I participated in TryHackMe's Advent of Cyber 2025 event. This repo serves as my overview of the cybersecurity tools and techniques learned in the event. This <b> DOES NOT </b> reveal any of the story or answers to room questions. Rather, it outlines the various cybersecurity concepts learned through the rooms.
 
 
 <h2>Applications Used</h2>
